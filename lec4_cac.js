@@ -18,3 +18,8 @@ console.log(account_no)
 
 
 console.table([account_no,account_email,account_password,account_branch,account_type])
+
+
+/* do not use var , because of issue in block space and functional space 
+only use let.
+  */
